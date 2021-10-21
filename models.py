@@ -8,7 +8,7 @@ Python module written for Columbia University's Financial Engineering and Risk M
 
 Inspired by https://github.com/govinda18/Financial-Engineering-and-Risk-Management-Part-I
 
-Covers the generation and calibration of binomial models for various asset classes, as well as pricing of mortgage-backed securities that are covered later in the course.
+Covers the setting up and calibration of binomial models for various asset classes, as well as pricing of mortgage-backed securities that are covered later in the course.
 
 """
 class lattice:
